@@ -1,7 +1,7 @@
 # T5Player-web
 百度云js播放器
 使用方法：
-首先推荐看演示演示：HTTP：//cyberplayer.bcelive.com/demo/new/index.html
+首先推荐看演示演示：http://cyberplayer.bcelive.com/demo/new/index.html
 3.3.0版本简介：
 FLV和HLS视频格式的点播及直播，在支持MediaSourceExtension的浏览器中高优使用H5进行播放，以应对闪存即将下线的现状。
 在其他低版本浏览器环境中，依旧自动调用闪存播放器进行播放，目前用户依旧可以通过主参数进行调度控制。
@@ -18,4 +18,4 @@ FLV和HLS视频格式的点播及直播，在支持MediaSourceExtension的浏览
 3，播放直播视频流的时候，一定要设置isLive：true。
 如图4所示，在部分的Android手机环境的浏览器上，原生不支持播放HLS。
 
-更多帮助和API请见：HTTPS：//cloud.baidu.com/doc/MCT/Web-SDK.html
+更多帮助和API请见：http://cloud.baidu.com/doc/MCT/Web-SDK.html
